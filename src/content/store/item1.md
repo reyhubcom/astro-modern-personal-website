@@ -2,7 +2,7 @@
 title: "View Store"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 custom_link_label: "Live Preview"
-custom_link: "https://demourl.com/"
+custom_link: "https://www.bonfire.com/store/osis-store/"
 updatedDate: "Sep 15 2022"
 pricing: "$35"
 badge: "Buy Now"
