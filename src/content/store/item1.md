@@ -1,11 +1,11 @@
 ---
-title: "Demo Item 1"
+title: "View Store"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 custom_link_label: "Live Preview"
 custom_link: "https://demourl.com/"
 updatedDate: "Sep 15 2022"
-pricing: "$15"
-badge: "Featured"
+pricing: "$35"
+badge: "Buy Now"
 checkoutUrl: "https://checkouturl.com/"
 heroImage: "/itemPreview.png"
 ---
