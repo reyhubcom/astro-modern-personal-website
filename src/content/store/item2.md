@@ -1,15 +1,13 @@
 ---
 title: "Demo Item 2"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+description: "At Osis Store We Try To Make Sure We Serve Our Customer Better And Give Them The Most Relaxing And Convenient Online Shopping Experience Ever."
 custom_link_label: "Custom Btn"
-custom_link: "https://customurl.com/"
+custom_link: "https://www.bonfire.com/tarot-circle-original/?productType=1d7eda58-3af0-46b5-a3fa-1fe8158a9fbe/"
 updatedDate: "Sep 11 2022"
-pricing: "$10"
+pricing: "$24.99"
 oldPricing: "$25.5"
-checkoutUrl: "https://checkouturl.com/"
-heroImage: "/itemPreview.png"
+checkoutUrl: "https://www.bonfire.com/tarot-circle-original/?productType=1d7eda58-3af0-46b5-a3fa-1fe8158a9fbe"
+heroImage: "/hoodie-2.png"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
-
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+At Osis Store We Try To Make Sure We Serve Our Customer Better And Give Them The Most Relaxing And Convenient Online Shopping Experience Ever.
