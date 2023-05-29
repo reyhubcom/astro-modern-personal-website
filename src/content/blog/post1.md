@@ -1,6 +1,6 @@
 ---
-title: "Demo Post 1"
-description: "testipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+title: "Ethereum"
+description: "Staking is the act of depositing 32 ETH to activate validator software. As a validator you'll be responsible for storing data, processing transactions."
 pubDate: "Sep 10 2022"
 heroImage: "/eth-7.png"
 ---
