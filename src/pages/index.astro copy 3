@@ -56,14 +56,6 @@ const last_posts = posts.slice(0, 3);
 />
 
   <div class="divider my-0"></div>
-  <HorizontalCard
-      title="Ethereum"
-      img="/eth-5.png"
-      desc="Staking is the act of depositing 32 ETH to activate validator software. As a validator you'll be responsible for storing data, processing transactions."
-      url="./projects"
-      badge="ETH"
-    />
-    <div class="divider my-0"></div>
     <HorizontalCard
     title="Avalanche"
     img="/avax-4.png"
