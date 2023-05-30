@@ -19,8 +19,8 @@ import { Image } from "@astrojs/image/components";
               format="webp"
               width={300}
               height={300}
-              <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-              <lottie-player src="https://assets5.lottiefiles.com/packages/lf20_xfv9vh5f.json"  background="transparent"  speed="0.5"  style="width: 100px; height: 100px;"  loop  autoplay></lottie-player>
+              src="/profile.jpg"
+              alt="Profile image"
             />
           </div>
         </div>
